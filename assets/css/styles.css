@@ -180,12 +180,13 @@ img {
 
 /*=== Show menu ===*/
 .show{
-  right:100px;
+  right: -100;
   
   
 }
-
-
+.active{
+  color: var(--first-color);
+}
 /*===== HOME =====*/
 
 
